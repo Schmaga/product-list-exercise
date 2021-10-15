@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Super fast gear G-100",
+            "manufacturer": "Extreme Gears Inc.",
+            "description": "This gear can be used in a large number of machines. It is made from an extremely durable Titanium/Platinum compound for maximum lifetime",
+            "netPrice": 100,
+            "grossPrice": 119,
+            "vatRate": 19
+        },
+        {
+            "id": 2,
+            "title": "Lever L 5000 XDT",
+            "manufacturer": "Levers-for-live corp.",
+            "description": "Whenever you need a lever that will survive a million switches, look no further. You just found it!",
+            "netPrice": 500,
+            "grossPrice": 595,
+            "vatRate": 19
+        },
+        {
+            "id": 3,
+            "title": "A very pipy pipe",
+            "manufacturer": "Possibly practical pipes SE",
+            "description": "Whenever you have to do some plumbing, you will need this pipy pipe which excels in all things piping. Seriously! Please do not doubt us, because some marketing company was paid a ton for this text.",
+            "netPrice": 300,
+            "grossPrice": 321,
+            "vatRate": 7
+        }
+    ]
+}
